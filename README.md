@@ -7,4 +7,4 @@ Calculo de Area
 ___
 - pedir el area a calcular
 - depende del area elegida relizar dicho calculo mediante sus metodos
-- 
+- insertar las medidas
